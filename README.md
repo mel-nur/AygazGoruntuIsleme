@@ -1,5 +1,7 @@
 # Aygaz Görüntü İşleme Bootcamp 🎓
 
+Bu proje **Ahmet KOÇ** ile birlikte hazırlanmıştır.
+
 ## Proje Amacı 🔎
 Bu projenin amacı, Convolutional Neural Networks (CNN) modellerinin temel prensiplerini pekiştirerek hayvan türlerini sınıflandırma görevinde uygulamalı olarak kullanmaktır. Proje kapsamında, 10 farklı hayvan sınıfının ayrımı yapılacak ve modelin performansı çeşitli test senaryolarıyla değerlendirilecektir.
 
@@ -46,5 +48,3 @@ Proje, Jupyter Notebook ortamında çalışmak üzere tasarlanmıştır. Gerekli
 ### İhtiyaç Duyulan Kütüphaneler
 ```bash
 pip install numpy opencv-python tensorflow scikit-learn matplotlib
-
-Bu proje **Ahmet KOÇ** ile birlikte hazırlanmıştır.
