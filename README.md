@@ -46,3 +46,5 @@ Proje, Jupyter Notebook ortamında çalışmak üzere tasarlanmıştır. Gerekli
 ### İhtiyaç Duyulan Kütüphaneler
 ```bash
 pip install numpy opencv-python tensorflow scikit-learn matplotlib
+
+Bu proje **Ahmet KOÇ** ile birlikte hazırlanmıştır.
